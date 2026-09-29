@@ -5,11 +5,11 @@ The Aila SDK enables a suite of capabilities on Apple iOS & iPadOS devices, incl
 
 
 ## Documentation
-See our documentation on [portal.ailatech.com](https://portal.ailatech.com/documentation)
+See our documentation on [docs.ailatech.net](https://docs.ailatech.net/)
 
 ## Tutorials
 You can view some tutorials which will walk you through how to integrate the SDK.
-Find the tutorials [here](https://portal.ailatech.com/documentation)
+Find the tutorials [here](https://docs.ailatech.net/tutorials/ios/)
 
 ## Support
 Please contact support@ailatech.com for assistance
