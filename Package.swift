@@ -12,13 +12,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AilaVisionSDK",
-            url: "https://github.com/ailatech/AilaVisionSDK/releases/download/3.3.0/Aila.xcframework.zip",
-            checksum: "1e16e2cd673c742ecb0a941373998e7cb2df4a0d860cebc4869464a52aab548c"
+            url: "https://github.com/ailatech/AilaVisionSDK/releases/download/3.3.0-Legacy/Aila.xcframework.zip",
+            checksum: "a54a654f93c3ba9ce74c9291a971f96399c9fb603a223bd5f2c5641e5ce80dd7"
         ),
         .binaryTarget(
             name: "AilaDecoder",
-            url: "https://github.com/ailatech/AilaVisionSDK/releases/download/3.3.0/AilaDecoder.xcframework.zip",
-            checksum: "fb7852f180c6d77b4f7d87f3a73e8eea6aed04dff5ec06e2f3ce112d791cd27d"
+            url: "https://github.com/ailatech/AilaVisionSDK/releases/download/3.3.0-Legacy/AilaDecoder.xcframework.zip",
+            checksum: "5f92f45801ab3f29e24d670b6b64eef4ffde726bc4203a54252f43ff4cd52df3"
         )
     ]
 )
