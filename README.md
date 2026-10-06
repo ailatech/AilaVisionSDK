@@ -9,7 +9,7 @@ See our documentation on [docs.ailatech.net](https://docs.ailatech.net/)
 
 ## Tutorials
 You can view some tutorials which will walk you through how to integrate the SDK.
-Find the tutorials [here](https://docs.ailatech.net/tutorials/ios/)
+Find the tutorials [here](https://docs.ailatech.net/tutorials/ios/overview)
 
 ## Support
 Please contact support@ailatech.com for assistance
